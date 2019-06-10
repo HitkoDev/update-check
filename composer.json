@@ -15,13 +15,8 @@
     "autoload": {
         "files": [ "command.php" ]
     },
-    "require": {
-        "wp-cli/wp-cli": ">=1.1.0"
-    },
-    "require-dev": {
-        "behat/behat": "~2.5",
-        "stevegrunwell/wp-enforcer": "^0.4.2"
-    },
+    "require": {},
+    "require-dev": {},
     "scripts": {
         "post-install-cmd": [
             "wp-enforcer"
