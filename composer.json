@@ -1,8 +1,8 @@
 {
-    "name": "growella/update-check",
+    "name": "HitkoDev/update-check",
     "description": "WP-CLI command to automatically check WordPress core and all installed themes and plugins for available updates",
     "type": "wp-cli-package",
-    "homepage": "https://github.com/growella/update-check",
+    "homepage": "https://github.com/HitkoDev/update-check",
     "license": "MIT",
     "authors": [
         {
